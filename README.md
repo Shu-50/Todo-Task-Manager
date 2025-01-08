@@ -18,9 +18,8 @@ Responsive Design: Crafted layouts that adapt perfectly to different screen size
 🌟 Future Improvements
 Optimize local storage handling for better performance.
 Add features like task categories, due dates, and priority levels.
+
 📸 Screenshots
-
-
-![video](https://github.com/user-attachments/assets/b98c08fb-50bf-45c1-9d8f-8d16dd564fc6)
+![Screenshot 2025-01-08 120712](https://github.com/user-attachments/assets/4ca62b9b-a50d-4241-abae-0b6d1b8d150d)
 ![Screenshot 2025-01-07 231219](https://github.com/user-attachments/assets/681de89a-711c-4f25-ae22-cff547a18e74)
 
