@@ -21,6 +21,6 @@ Add features like task categories, due dates, and priority levels.
 📸 Screenshots
 
 
-https://github.com/user-attachments/assets/b98c08fb-50bf-45c1-9d8f-8d16dd564fc6
+![video](https://github.com/user-attachments/assets/b98c08fb-50bf-45c1-9d8f-8d16dd564fc6)
 ![Screenshot 2025-01-07 231219](https://github.com/user-attachments/assets/681de89a-711c-4f25-ae22-cff547a18e74)
 
